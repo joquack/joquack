@@ -12,7 +12,7 @@ I'm a fullstack software engineer and absolutely ~~hates pug~~ loves using react
 
 If you want to find out more info here's where you can reach me:
 
-![LinkedIn](https://www.linkedin.com/in/cruz-joel/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)       https://www.linkedin.com/in/cruz-joel/
 
 <!--
 **joquack/joquack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
