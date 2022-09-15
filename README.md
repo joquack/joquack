@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Joel Cruz 👋
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joquack&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${joquack}.${537131024})
 
 <!--
 **joquack/joquack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
