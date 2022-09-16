@@ -18,9 +18,6 @@ I'm a fullstack software engineer and absolutely ~~hates pug~~ loves using react
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joquack&theme=tokyonight)
 </div>
 
-
-
-
 <div align="right">
   <a>
     <img src="https://visitor-badge.glitch.me/badge?page_id=${joquack}.${537131024}" />
@@ -35,6 +32,12 @@ If you want to find out more info about me, here's where you can reach me:
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+
+
+
+
+
 <!--
 **joquack/joquack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
