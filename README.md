@@ -1,9 +1,9 @@
 ### Hi there, I'm Joel Cruz 👋
 
 <div align="center">
-  <img height='150em' src="https://c.tenor.com/Vb3g5JF3MB4AAAAi/neco-arc-taunt.gif" />
-  <img height='150em' src="https://c.tenor.com/zWc1BR79m7UAAAAi/neco-arc-melty-blood.gif" />
-  <img height='150em' src="https://c.tenor.com/foo-F4ulyXgAAAAi/necoarc-melty-blood.gif" />
+  <img height='120em' src="https://c.tenor.com/Vb3g5JF3MB4AAAAi/neco-arc-taunt.gif" />
+  <img height='120em' src="https://c.tenor.com/zWc1BR79m7UAAAAi/neco-arc-melty-blood.gif" />
+  <img height='120em' src="https://c.tenor.com/foo-F4ulyXgAAAAi/necoarc-melty-blood.gif" />
 </div>
 
 ____
