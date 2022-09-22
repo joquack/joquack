@@ -1,4 +1,4 @@
-### Hi there, I'm Joel Cruz 👋
+## Hi there, I'm Joel Cruz 👋
 
 <div align="center">
   <img height='100em' src="https://c.tenor.com/Vb3g5JF3MB4AAAAi/neco-arc-taunt.gif" />
@@ -8,7 +8,7 @@
 
 ____
 
-<h3>About Me:</h3>
+## About Me:
 
 I'm a fullstack software engineer and absolutely ~~hates pug~~ loves using react-redux and python. 
 
