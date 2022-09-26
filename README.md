@@ -34,5 +34,5 @@ If you want to find out more info about me, here's where you can reach me:
   <a href="https://joquack.github.io">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="joquack.github.io">My site</a>
+  
 </div>
