@@ -6,7 +6,6 @@
   <img height='100em' src="https://c.tenor.com/foo-F4ulyXgAAAAi/necoarc-melty-blood.gif" />
 </div>
 
-____
 
 ## About Me:
 
