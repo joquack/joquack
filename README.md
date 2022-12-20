@@ -9,7 +9,7 @@
 
 ## About Me:
 
-I'm a fullstack software engineer and absolutely ~~hates pug~~ loves using react-redux and python. 
+I'm a fullstack software engineer and likes using react-redux and python. 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joquack&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
